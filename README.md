@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samridhi
 - 👀 I’m interested in sleeping 
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning frontend
 - 📫 How to reach me samridhisingh103b@gmail.com
 
 <!---
